@@ -1,0 +1,9 @@
+[2026-09-14 23:02:21] (microphone (keypress)) Hello.
+[2026-09-14 23:02:27] (microphone (keypress)) Hello, my name is Zachary.
+[2026-09-14 23:02:36] (microphone (keypress)) This is crazy, this works very perfectly.
+[2026-09-14 23:03:40] (microphone (keypress)) I love playing C at the
+[2026-09-14 23:03:46] (microphone (keypress)) I will play C of the use.
+[2026-09-14 23:03:53] (microphone (keypress)) I love playing C of these.
+[2026-09-14 23:04:33] (microphone (keypress)) Really?
+[2026-09-14 23:04:40] (microphone (keypress)) Really? Is that how that works?
+[2026-09-14 23:04:50] (microphone (keypress)) Okay, that's not how okay. Well, uh, whoa, whoa.
