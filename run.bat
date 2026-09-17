@@ -1,0 +1,1 @@
+python transcribe.py --live --discord-device 2 --model medium

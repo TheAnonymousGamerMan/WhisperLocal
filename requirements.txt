@@ -3,3 +3,4 @@ torch>=2.0
 sounddevice
 numpy
 soundfile
+soundcard  # WASAPI loopback capture for --loopback (sounddevice/PortAudio doesn't support loopback)
